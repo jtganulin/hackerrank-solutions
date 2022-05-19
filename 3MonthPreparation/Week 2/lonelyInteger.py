@@ -18,9 +18,9 @@ def lonelyinteger(a):
             return k
 
 
-def main():
+'''def main():
     arr = [1, 1, 2, 2, 3, 3, 4]
     print(lonelyinteger(arr))
 
 
-main()
+main()'''
