@@ -1,11 +1,5 @@
 #!/bin/python3
 
-import math
-import os
-import random
-import re
-import sys
-
 #
 # Complete the 'matchingStrings' function below.
 #
@@ -23,3 +17,4 @@ def matchingStrings(strings, queries):
             if queries[i] == strings[j]:
                 results[i] += 1
     return results
+

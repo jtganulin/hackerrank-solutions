@@ -10,3 +10,4 @@ def miniMaxSum(arr):
         greatest += i
 
     print(str(least) + " " + str(greatest))
+

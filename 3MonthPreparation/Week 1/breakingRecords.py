@@ -10,3 +10,4 @@ def breakingRecords(scores):
             maxTimes += 1
 
     return [maxTimes, minTimes]
+

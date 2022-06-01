@@ -24,5 +24,3 @@ for cs in range (test_cases):
     findZigZagSequence(a, n)
 
 
-
-

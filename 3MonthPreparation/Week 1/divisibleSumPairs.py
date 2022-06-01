@@ -7,3 +7,4 @@ def divisibleSumPairs(n, k, ar):
             if i < j and (ar[i] + ar[j]) % k == 0:
                 res += 1
     return res
+

@@ -19,3 +19,4 @@ def plusMinus(arr):
 
     zero = abs(float(res[2] / len(arr)))
     print("%.6f" % zero)
+

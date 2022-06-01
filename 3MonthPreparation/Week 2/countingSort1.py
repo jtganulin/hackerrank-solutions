@@ -1,11 +1,5 @@
 #!/bin/python3
 
-import math
-import os
-import random
-import re
-import sys
-
 #
 # Complete the 'countingSort' function below.
 #
@@ -23,3 +17,4 @@ def countingSort(arr):
         freq[i] += 1
 
     return freq
+
